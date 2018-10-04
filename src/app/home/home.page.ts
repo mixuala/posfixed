@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  styleFixed={
+    opacity: 0.7,
+    position:'fixed',
+    top:'0',
+    left:'20%',
+    width:'80%',
+    height:'100%',
+    'z-index': '100',
+    'background-color':'green'
+  }
+
 }
