@@ -1,0 +1,7 @@
+{
+  "name": "posfixed",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
